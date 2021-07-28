@@ -33,11 +33,4 @@ public class PostagemController {
 				.orElse(ResponseEntity.notFound().build());
 				
 	}
-	
-	@GetMapping("/titulo/{titulo}") //coloquei outra barra para a API não se confundir com o de cima
-	public ResponseEntity<List<Postagem>> GetbyTitulo(@PathVariable String titulo){
-		return ResponseEntity.ok(repository.findAllByTituloContainingIgnoreCase(titulo))  ;
-				
-	}
-	
 }
