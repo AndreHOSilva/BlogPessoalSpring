@@ -40,9 +40,9 @@ INDEX VERSION 1.131+C:\Users\usuario\Documents\BlogPessoalSpring\.metadata\.plug
 2188322398.index
 1441192999.index
 234819104.index
-3707278488.index
-2677602935.index
 2449828308.index
+2677602935.index
+3707278488.index
 2051103372.index
 1583336815.index
 1021355091.index
@@ -54,8 +54,8 @@ INDEX VERSION 1.131+C:\Users\usuario\Documents\BlogPessoalSpring\.metadata\.plug
 3256865853.index
 567556700.index
 1126892068.index
-1807237560.index
 1603646792.index
+1807237560.index
 3115448664.index
 3899020813.index
 896605460.index

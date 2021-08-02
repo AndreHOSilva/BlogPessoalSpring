@@ -6,7 +6,7 @@ import org.generation.blogPessoal.model.Postagem;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-
+//repository serve para usar pesquisas que não estão no JPA
 @Repository
 public interface PostagemRepository extends JpaRepository<Postagem, Long> {
 	public List<Postagem> findAllByTituloContainingIgnoreCase (String titulo) ;
